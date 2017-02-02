@@ -1,0 +1,8 @@
+{
+	"serve": "python -m SimpleHTTPServer",
+	"grade": "cd ~/Hackbright/grading/",
+	"fellow": "cd ~/Hackbright/fellowship",
+	"bashp": "open ~/.bash_profile",
+	"src": "source ~/.bash_profile",
+	"code": "cd ~/Documents/Code"
+}
